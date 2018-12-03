@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-28_1900",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1536,7 +1536,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/31.png",
+                    "src": "@PROJECT_PATH@/assets/images/30.png",
                     "link": "https://mobirise.com",
                     "active": true,
                     "alt": "",
@@ -2822,7 +2822,7 @@
             "inverse": true,
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1135.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
