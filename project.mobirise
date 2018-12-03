@@ -711,9 +711,10 @@
               "name": "building-construction",
               "family": "icon54-v4",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page4.html",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "newWindow": false
             }
           },
           "media4": {
@@ -723,9 +724,10 @@
               "name": "laptop",
               "family": "iconsMind",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page6.html",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "newWindow": false
             }
           },
           "media5": {
@@ -1536,7 +1538,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/30.png",
+                    "src": "@PROJECT_PATH@/assets/images/31.png",
                     "link": "https://mobirise.com",
                     "active": true,
                     "alt": "",
