@@ -940,6 +940,10 @@ h6,
 #ext_menu-s .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#content5-1z .mbr-section-title,
+#content5-1z p {
+  color: #fff;
+}
 #extTestimonials5-v .mbr-section-title {
   color: #464646;
 }
